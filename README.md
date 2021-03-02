@@ -10,7 +10,7 @@ $ git pull origin master
 
 url for my github:https://github.com/tangqianqiya/codefield.git
 
-url for my gitee:https://github.com/tangqianqiya/codefield.git
+url for my gitee:https://gitee.com/tangqianqi/codefield.git
 
 If u have any problem,I'm willing to communicate with u by email.My email address is tangqianqiya@gmail.com.
 
